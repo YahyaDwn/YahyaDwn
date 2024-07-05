@@ -45,10 +45,24 @@ let discord = 'sp.ismaa';
   <a href="https://discord.gg/ryCC6TkuWY"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
 </div>
 
-<div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b> 📊 GitHub Statistics </b></i><br>
+<img src="https://github-readme-stats.vercel.app/api?username=YahyaDwn&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaDwn&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaDwn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics"/>
+<hr>
+
+
+
+
 
 </div>
+
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+</p>
 
