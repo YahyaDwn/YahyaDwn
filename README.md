@@ -48,5 +48,12 @@ let discord = 'sp.ismaa';
 <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaDwn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YahyaDwn&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics"/>
+
+<div align="center">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaDwn-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 </div>
