@@ -1,5 +1,21 @@
 
 
+# Welcoem to my GitHub
+**Simple account :)**
+## About Me
+```js
+let name = 'Yahya';
+let age = 17;
+let country = 'Morocco';
+let languages = ['Arabic','English','French','Spanish'];
+let skils = ['Javascript','Ejs','next.js','react']
+let discord = 'sp.ismaa';
+
+```
+### [Discord Account](https://discord.com/users/345245922151628801)
+
+
+
 <div align="center"> <h1 align="center"> 🛠 Language & Tools </h1> </div>
 
 <div align="center">
@@ -29,22 +45,8 @@
   <a href="https://discord.gg/ryCC6TkuWY"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
 </div>
 
-# Welcoem to my GitHub
-**Simple account :)**
-## About Me
-```js
-let name = 'Yahya';
-let age = 17;
-let country = 'Morocco';
-let languages = ['Arabic','English','French','Spanish'];
-let skils = ['Javascript','Ejs','next.js','react']
-let discord = 'sp.ismaa';
-
 <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wickstudio&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics" />
 </div>
-
-```
-### [Discord Account](https://discord.com/users/345245922151628801)
